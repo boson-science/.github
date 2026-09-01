@@ -9,6 +9,8 @@ requirements. Project-specific files take precedence over the files here.
 ## Contents
 
 - `profile/README.md` — public organization profile
+- `assets/boson-science-mark.png` — transparent high-resolution brand mark
+- `assets/boson-science-avatar-512.png` — upload-ready GitHub avatar
 - `CONTRIBUTING.md` — default contribution process
 - `CODE_OF_CONDUCT.md` — community conduct expectations
 - `SECURITY.md` — responsible vulnerability reporting guidance

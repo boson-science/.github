@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/boson-science/.github/main/assets/boson-science-mark.png" alt="Boson Science logo" width="180">
+</p>
+
 # Boson Science
 
 Boson Science researches, builds, and publishes open-source software.
