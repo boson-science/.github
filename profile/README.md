@@ -4,35 +4,35 @@
 
 # Boson Science
 
-Boson Science researches, builds, and publishes open-source software.
+Boson Science builds software, systems, learning tools, and games around ideas
+we find interesting, fun, and useful. We aim to share most of what we create so
+others can use it and build on it.
 
 ## How we work
 
-Projects begin in private incubation so that their purpose, security model,
-documentation, and release boundary can be established deliberately. When a
-project is ready for public use and collaboration, we publish its source,
-history, license, and contribution guidance.
+We develop AI tools and use data analysis and machine learning. We are
+exploring how to bring structure to software development in a world shaped by
+AI, and pushing the envelope of agentic work. We do not believe in gating
+methods and technology; we aim to share useful tools and methods with the world.
 
-Boson Science software is released under one of two licenses:
-
-- **MIT** for components intended for broad reuse and integration.
-- **GNU AGPL v3.0** for networked systems where users should receive the source
-  for the version of the software they interact with, including deployed
-  modifications.
-
-Each repository identifies its license explicitly. There is no organization-wide
-assumption that unlabeled code is open source.
+Projects may be developed in public or in private. Software uses a range of
+open-source licenses, identified in each project's repository. Game concepts
+and creative content are our intellectual property; we aim to open-source
+novel software methods and tools developed for cutting-edge games. Source
+visibility, software licensing, and creative rights are separate.
 
 ## Projects
 
-We are preparing our first public releases. Published projects will appear on
-this organization page when they meet the Boson Science release baseline.
+Public repositories are listed below. MinIO and Console are independent
+community forks; other projects are at different stages. We keep current
+project descriptions and status on [boson.science](https://boson.science).
 
 ## Contributing
 
-Public projects welcome well-scoped issues and pull requests. Please read the
-repository's README, contribution guide, and code of conduct before proposing a
-change. Project-specific guidance takes precedence over organization defaults.
+We welcome ideas and feedback through issues on projects that have them enabled.
+We are not recruiting or seeking outside code contributions at this time. Check
+the repository's guidance before opening an issue; project-specific instructions
+take precedence over organization defaults.
 
 ## Security
 
