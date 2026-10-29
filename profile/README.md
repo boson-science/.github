@@ -4,14 +4,15 @@
 
 # Boson Science
 
-Boson Science researches, builds, and publishes open-source software.
+Boson Science builds software, systems, learning tools, and games around ideas
+we find interesting, fun, and useful. We aim to share most of what we create so
+others can use it and build on it.
 
 ## How we work
 
-Projects begin in private incubation so that their purpose, security model,
-documentation, and release boundary can be established deliberately. When a
-project is ready for public use and collaboration, we publish its source,
-history, license, and contribution guidance.
+Projects may be developed in public or in private. We make each project's
+source, license, security guidance, and current status clear. When source is
+ready to share, we include its history, license, and contribution guidance.
 
 Boson Science software is released under one of two licenses:
 
@@ -25,8 +26,9 @@ assumption that unlabeled code is open source.
 
 ## Projects
 
-We are preparing our first public releases. Published projects will appear on
-this organization page when they meet the Boson Science release baseline.
+Public repositories are listed below. MinIO and Console are independent
+community forks; other projects are at different stages. We keep current
+project descriptions and status on [boson.science](https://boson.science).
 
 ## Contributing
 
