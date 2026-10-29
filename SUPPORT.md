@@ -1,12 +1,12 @@
 # Support
 
-Boson Science projects are maintained in the open, but no general service-level
-agreement is implied.
+Boson Science projects have different audiences and support boundaries. No
+general service-level agreement is implied.
 
 - Use repository documentation and discussions for usage questions when
   discussions are enabled.
-- Use the appropriate issue form for reproducible defects or scoped feature
-  proposals.
+- Use an enabled issue form to share an idea, report a reproducible problem, or
+  propose a feature.
 - Use private vulnerability reporting for security concerns.
 - Do not use maintainers' personal contact information for routine support.
 

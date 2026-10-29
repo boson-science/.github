@@ -1,3 +1,8 @@
+> Boson Science is not recruiting or seeking outside code contributions at this
+> time. Please share ideas through an issue instead. Community-maintained
+> repositories may set their own contribution policy; check the target
+> repository's guidance before submitting.
+
 ## Purpose
 
 <!-- What problem does this change solve, and why is this the right boundary? -->
